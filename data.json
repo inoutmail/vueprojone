@@ -1,0 +1,31 @@
+{
+  "taskTimerList": [
+    {
+      "type": "TIMER",
+      "title": "timer 1",
+      "description": "timer 1 description",
+      "imageLink": "https://via.placeholder.com/1024x760.png?text=35mins",
+      "mins": 35,
+      "seconds": "00"
+    },
+    {
+      "type": "WAIT"
+    },
+    {
+      "type": "TIMER",
+      "title": "timer 2",
+      "description": "timer 2 description",
+      "imageLink": "https://via.placeholder.com/1024x760.png?text=15mins",
+      "mins": 15,
+      "seconds": "00"
+    },
+    {
+      "type": "TIMER",
+      "title": "timer 3",
+      "description": "timer 3 description",
+      "imageLink": "https://via.placeholder.com/1024x760.png?text=5mins",
+      "mins": 5,
+      "seconds": "00"
+    }
+  ]
+}
